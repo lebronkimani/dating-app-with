@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GlobalConnect Dating</string>
+    <string name="title_activity_main">GlobalConnect Dating</string>
+    <string name="package_name">com.globalconnect.dating</string>
+    <string name="custom_url_scheme">com.globalconnect.dating</string>
+</resources>

@@ -1,0 +1,7 @@
+{
+  "name": "GlobalConnect Dating",
+  "description": "An international dating app focused on verified profiles and safe connections.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

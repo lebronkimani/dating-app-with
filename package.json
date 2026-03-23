@@ -1,0 +1,14 @@
+{
+  "name": "globalconnect-dating",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:all": "concurrently \"npm run dev:backend\" \"npm run dev\"",
+    "build": "cd frontend && npm run build",
+    "build:backend": "cd backend && npm run build",
+    "start": "cd backend && npm run start",
+    "build:android": "cd frontend && npm run build && npx capacitor sync android && cd ../android && ./gradlew assembleDebug"
+  }
+}

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Env files
+.env
+
+# DB
+*.db
+
+# Logs
+*.log
+*.txt
+
+# IDE
+.vscode/
+
+# Uploads
+uploads/
+tmp/

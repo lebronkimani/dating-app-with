@@ -1,0 +1,8 @@
+{
+  "appId": "com.globalconnect.dating",
+  "appName": "GlobalConnect Dating",
+  "webDir": "../frontend/dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,0 +1,8 @@
+// Capacitor settings - generated automatically
+ext {
+    capacitorVersion = '7.0.0'
+    androidMinSdkVersion = 22
+    androidCompileSdkVersion = 34
+    androidTargetSdkVersion = 34
+    kotlinVersion = '1.9.22'
+}
